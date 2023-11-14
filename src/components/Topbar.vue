@@ -19,7 +19,7 @@
         </div>
 
         <div class="header-buttons">
-          <a target="_blank" href="/CVfahadghouri.pdf">
+          <a target="_blank" href="/CVFahadGhouri.pdf">
             <button type="button" class="btn btn_download">
               <span>DOWNLOAD RESUME</span>
             </button>
